@@ -1,0 +1,14 @@
+Well-defined problems and solutions(page 67)
+
+uninformed search strategies
+
+TREE -SEARCH(page 77) 
+GRAPH -SEARCH(page 77)
+BREADTH -FIRST -SEARCH(page 82)
+UNIFORM -COST -SEARCH(page 84) : use path cost(the sum total of every fragment, expand every child of current node to get the path cost and then select the lowest-cost path,compared with not only the paths expanded in this round but also all the paths in the problem, for next expanding) instead of the cost of each path known in adavance(which greedy does)
+Depth-first search(page 86)
+Depth-limited search(page 88)
+Iterative deepening search(page 89)
+Bidirectional search(page 91)
+
+Comparing uninformed search strategies(page 91)
